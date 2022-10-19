@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabTest1</string>
+    <string name="action_menu_item">Change Colors</string>
+    <string name="student_id">STUDENT ID</string>
+    <string name="student_id_value">101377804</string>
+    <string name="student_name">STUDENT NAME</string>
+    <string name="student_name_value">GUNJAN SHARMA</string>
+</resources>
